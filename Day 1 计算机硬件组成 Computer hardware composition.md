@@ -225,5 +225,51 @@ raid10，也称为raid1+0，是一种结合磁盘镜像和磁盘条带保护数�
 
 
 
+# Day 1 exercise
+
+##### 1.你用过的服务器型号有哪些？配置如何？
+
+What server models have you used?How is the configuration?
+
+Dell r720 2u 双路，4个SAS硬盘 32G
+
+1个CPU 4核 16G
+
+
+
+##### 2.程序、进程和守护进程的区别
+
+The difference between programs, processes and daemon processes
+
+
+
+##### 3.提升用户体验的网站解决方案
+
+Web solutions that enhance the user experience
+
+
+
+##### 4. buffer与cache区别
+
+The difference between buffer and cache
+
+
+
+##### 5.描述Raid 0 1的特点
+
+Describe the characteristics of Raid 0 1
+
+###### Raid 0- disk striping 条带化
+
+速度快，无冗余，容量无损失
+
+Fast speed, no redundancy, no loss of capacity
+
+###### Raid 1 mirroring  镜像
+
+100%冗余，容量损失半，最安全
+
+100% redundancy, half capacity loss，the most secure
+
 
 
